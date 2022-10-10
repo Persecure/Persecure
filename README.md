@@ -1,4 +1,4 @@
-<h1>Hi, I'm Persee@ <br/><a href="https://persecure.info">Cybersecurity Enthusiast </a>
+<h1>Hi, I'm Persee! <br/><a href="https://persecure.info">Cybersecurity Enthusiast </a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -21,12 +21,5 @@
   - [Port Scanner](https://github.com/Persecure/Python_port_scanner)
   - [Text based game](https://github.com/Persecure/Python-Text-based-game-)
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Persee" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Persee" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[twitter]: https://twitter.com/persecure
-[linkedin]: https://linkedin.com/in/perseelan
 
 <!--
