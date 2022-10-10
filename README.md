@@ -6,11 +6,10 @@
   - [Vulnhub](https://github.com/Persecure/Vulnhub)
   - [HackTheBox](https://github.com/Persecure/Hackthebox)
   - [TryHackme](https://github.com/Persecure/Tryhackme)
-- <b>Malware Analysis (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Malware Analysis</b>
   - [Practical Malware Analysis](https://github.com/Persecure/Practical-Malware-Analysis-Labs) 
 - <b>PowerShell</b>
  - [Active Directory Bulk User Creation](https://github.com/Persecure/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Vulnerability management</b>
   - [Nessus](https://github.com/Persecure/Vulnerability-Management-with-Nessus)
 - <b>Reverse Engineering</b>
